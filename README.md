@@ -1,5 +1,5 @@
 **Acknowledgement:** 
-Arshyn Zhanbolatov, Kizheppatt Vipin, Aresh Dadlani, Dmitriy Fedorov, *"StocNoC: Accelerating Stochastic Models Through Reconfigurable Network-on-Chip Architectures,"* In Proceedings of the International Symposium on Applied Reconfigurable Computing (ARC), pp. 361-375, April 2020.* ([DOI](https://doi.org/10.1007/978-3-030-44534-8_27))
+Arshyn Zhanbolatov, Kizheppatt Vipin, Aresh Dadlani, Dmitriy Fedorov, *"StocNoC: Accelerating Stochastic Models Through Reconfigurable Network-on-Chip Architectures,"* In Proceedings of the International Symposium on Applied Reconfigurable Computing (ARC), pp. 361-375, April 2020. ([DOI](https://doi.org/10.1007/978-3-030-44534-8_27))
 
 **You can also find the paper on ResearchGate ([link](https://www.researchgate.net/publication/339167199_StocNoC_Accelerating_Stochastic_Models_through_Reconfigurable_Network-on-Chip_Architectures)).**
 
